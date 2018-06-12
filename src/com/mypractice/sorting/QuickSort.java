@@ -1,6 +1,6 @@
 package com.mypractice.sorting;
 import java.util.Arrays;
-
+   
 public class QuickSort {
 	public static void main(String[] args) {
 		//Scanner sc = new Scanner(System.in);
