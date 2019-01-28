@@ -14,7 +14,7 @@ public class InsertionSort {
 			 System.out.println(sc.nextInt());	
 		}
 		
-		/*	int[] A = {5,4,8,1,2};
+		/*	int[] A = {5,4,8,1,2};  // fgfgdrghr
 			System.out.println(Arrays.toString(insertion_sort(A)));*/
 	}
 	private static int[] insertion_sort(int[] A){
