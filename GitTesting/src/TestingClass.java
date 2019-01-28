@@ -3,10 +3,10 @@ public class TestingClass {
 
 	static int a = 0;
 	public static void main(String[] args) {
-		System.out.println("a " a);
+		System.out.println("a "+ a);
 	}
-	void m2(){
-		//TODO pranaychinta
+	static void m2(){
+		System.out.println("a "+ a);
 	}
 	
 	static void m1(){
