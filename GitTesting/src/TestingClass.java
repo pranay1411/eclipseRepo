@@ -8,4 +8,8 @@ public class TestingClass {
 	void m2(){
 		//TODO pranaychinta
 	}
+	
+	static void m1(){
+		//TODO
+	}
 }
