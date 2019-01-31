@@ -5,11 +5,7 @@ public class TestingClass {
 	public static void main(String[] args) {
 		System.out.println("a "+ a);
 	}
-	static void m2(){
-		System.out.println("a "+ a);
-	}
-	
 	static void m1(){
-		//TODO
+		System.out.println("a "+ a);
 	}
 }
